@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6859c162822d5d409037cde1e8fd7aa, type: 3}
+  m_Name: SpeedUpgrade
+  m_EditorClassIdentifier: 
+  upgradeSprite: {fileID: 21300000, guid: 47defa358681f49fd950f2327b8a7e06, type: 3}
+  description: Movement speed
+  skillName: Speed
+  upgradeToExclude: []
+  stats: {fileID: 11400000, guid: 0488644179cad7844aa0965e1c1ab77d, type: 2}
+  speedMultiplier:
+  - 15
+  - 20
+  - 35
+  - 40
+  - 50

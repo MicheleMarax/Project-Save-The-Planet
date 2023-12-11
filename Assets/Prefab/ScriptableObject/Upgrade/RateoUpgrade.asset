@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d64aa85dc4af4dc4b8c0b510495487ee, type: 3}
+  m_Name: RateoUpgrade
+  m_EditorClassIdentifier: 
+  upgradeSprite: {fileID: 21300000, guid: 84cfc0679acc246bbbc9cb69464ad0b4, type: 3}
+  description: Increase rateo of fire
+  skillName: Rateo
+  upgradeToExclude: []
+  stats: {fileID: 11400000, guid: 0488644179cad7844aa0965e1c1ab77d, type: 2}
+  rateoMultiplier:
+  - 10
+  - 15
+  - 30
+  - 40
+  - 50

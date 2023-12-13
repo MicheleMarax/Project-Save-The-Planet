@@ -1,0 +1,3 @@
+# Android application (Save the planet)
+![/SaveThePlanet.png](https://github.com/MicheleMarax/Project-Save-The-Planet/blob/master/SaveThePlanet.png)
+This software engineering test project involves developing an Android game in Unity, focusing on implementing SOLID principles. The game showcases single responsibility, open/closed, Liskov substitution, interface segregation, and dependency inversion principles for a robust and maintainable codebase. Through this project, the student demonstrates proficiency in Unity, Android game development, and mastery of SOLID principles in software engineering.
